@@ -5,4 +5,4 @@
 
 Входные данные:
 
-![image](https://github.com/alenahalm/Graph/assets/75882124/fac79cec-7fde-4cd1-9c65-e2dd58561c66)
+![input_data](https://github.com/alenahalm/Graph/assets/75882124/ade39e43-b5c2-4850-9a06-478c25f1caa6)
