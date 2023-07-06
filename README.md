@@ -36,3 +36,15 @@ def calculate(self):
 Результат:
 
 ![remove_pairs_result](https://github.com/alenahalm/Graph/assets/75882124/fc522608-f191-49ee-bdaa-69443d39c4e3)
+
+## Метод _remove_extra_edges()_
+
+Упрощает граф далее, убирая лишние ребра и вершины. Результат:
+
+![remove_extra_edges_result](https://github.com/alenahalm/Graph/assets/75882124/b8ae1f5b-31f9-41a4-86fb-b2debd5d0562)
+
+## Метод _shortest_distance()_
+
+Вычисляет оптимальный путь и его длину Результат:
+
+![result](https://github.com/alenahalm/Graph/assets/75882124/f96efbe3-8a93-49d9-8c92-bdc5236e1a70)
